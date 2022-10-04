@@ -4,7 +4,7 @@
 // Например:
 // 4 -> 16
 // -3 -> 9
-// -7 -> 49
+// -6-> 36
 
 Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine());
