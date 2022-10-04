@@ -1,0 +1,15 @@
+C:\C#\Work4\bin\Debug\net6.0\Work4.exe
+C:\C#\Work4\bin\Debug\net6.0\Work4.deps.json
+C:\C#\Work4\bin\Debug\net6.0\Work4.runtimeconfig.json
+C:\C#\Work4\bin\Debug\net6.0\Work4.dll
+C:\C#\Work4\bin\Debug\net6.0\Work4.pdb
+C:\C#\Work4\obj\Debug\net6.0\Work4.csproj.AssemblyReference.cache
+C:\C#\Work4\obj\Debug\net6.0\Work4.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Work4\obj\Debug\net6.0\Work4.AssemblyInfoInputs.cache
+C:\C#\Work4\obj\Debug\net6.0\Work4.AssemblyInfo.cs
+C:\C#\Work4\obj\Debug\net6.0\Work4.csproj.CoreCompileInputs.cache
+C:\C#\Work4\obj\Debug\net6.0\Work4.dll
+C:\C#\Work4\obj\Debug\net6.0\refint\Work4.dll
+C:\C#\Work4\obj\Debug\net6.0\Work4.pdb
+C:\C#\Work4\obj\Debug\net6.0\Work4.genruntimeconfig.cache
+C:\C#\Work4\obj\Debug\net6.0\ref\Work4.dll

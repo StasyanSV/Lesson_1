@@ -1,0 +1,15 @@
+C:\C#\Work3\bin\Debug\net6.0\Work3.exe
+C:\C#\Work3\bin\Debug\net6.0\Work3.deps.json
+C:\C#\Work3\bin\Debug\net6.0\Work3.runtimeconfig.json
+C:\C#\Work3\bin\Debug\net6.0\Work3.dll
+C:\C#\Work3\bin\Debug\net6.0\Work3.pdb
+C:\C#\Work3\obj\Debug\net6.0\Work3.csproj.AssemblyReference.cache
+C:\C#\Work3\obj\Debug\net6.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Work3\obj\Debug\net6.0\Work3.AssemblyInfoInputs.cache
+C:\C#\Work3\obj\Debug\net6.0\Work3.AssemblyInfo.cs
+C:\C#\Work3\obj\Debug\net6.0\Work3.csproj.CoreCompileInputs.cache
+C:\C#\Work3\obj\Debug\net6.0\Work3.dll
+C:\C#\Work3\obj\Debug\net6.0\refint\Work3.dll
+C:\C#\Work3\obj\Debug\net6.0\Work3.pdb
+C:\C#\Work3\obj\Debug\net6.0\Work3.genruntimeconfig.cache
+C:\C#\Work3\obj\Debug\net6.0\ref\Work3.dll
